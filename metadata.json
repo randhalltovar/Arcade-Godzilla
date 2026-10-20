@@ -1,5 +1,5 @@
 {
-  "title": "Godzilla Maracucho",
-  "description": "Un juego arcade de Godzilla en Maracaibo.",
+  "game_name": "Godzilla Maracucho",
+  "description": "Un juego arcade de Godzilla en Maracaibo esquivando el calor y rayos del Catatumbo.",
   "player_mode": "single_player"
 }
